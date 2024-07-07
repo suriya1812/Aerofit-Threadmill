@@ -16,9 +16,13 @@ The company collected the data on individuals who purchased a treadmill from the
 Dataset link: Aerofit_treadmill.csv
 
 Product Purchased:	KP281, KP481, or KP781
+
 Age:	In years
+
 Gender:	Male/Female
+
 Education:	In years
+
 MaritalStatus:	Single or partnered
 Usage:	The average number of times the customer plans to use the treadmill each week.
 Income:	Annual income (in $)
