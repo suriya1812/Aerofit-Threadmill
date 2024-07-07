@@ -24,10 +24,15 @@ Gender:	Male/Female
 Education:	In years
 
 MaritalStatus:	Single or partnered
+
 Usage:	The average number of times the customer plans to use the treadmill each week.
+
 Income:	Annual income (in $)
+
 Fitness:	Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
+
 Miles:	The average number of miles the customer expects to walk/run each week
+
 Product Portfolio:
 
 The KP281 is an entry-level treadmill that sells for $1,500.
